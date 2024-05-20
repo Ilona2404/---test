@@ -10,3 +10,8 @@ h1 {
     font-size: 48px;
     color: red;
 }
+
+.text {
+    color: coral;
+    font-size: 1.4em;
+}
